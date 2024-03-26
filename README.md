@@ -1,0 +1,1 @@
+This project aims to train a pre-trained Vision Transformer (ViT) model on a dataset of CT scans of lung nodules to classify them into malignant and benign. Finally, we have plotted all curves and metrics of the training and validation process.
